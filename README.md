@@ -1,5 +1,4 @@
 # odin-recipes
-First Project on The Odin Project - Recipes
+First Project from The Odin Project - Recipes
 
-Create a basic website using HTML to display different recipes
-Review of HTML knowledge covered in the "HTML Foundations" section
+Create a basic website using HTML to display different recipes as a review of HTML knowledge covered in the "HTML Foundations" course.
